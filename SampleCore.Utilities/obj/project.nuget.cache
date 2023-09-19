@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5sxxVQHiA5eT3rBiR7ZdRnOJJ3no6ysbkiRfApvbdlBRhnzf0VW6ahkxFMJDCC32eJos+inR2ode+dPCzeRtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahaj\\Downloads\\SampleCoreApi\\SampleCoreApi\\SampleCoreApi\\SampleCore.Utilities\\SampleCore.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahaj\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
+    "C:\\Users\\mahaj\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mahaj\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
