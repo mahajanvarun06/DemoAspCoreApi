@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("SampleCoreApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\mahaj\\Downloads\\SampleCoreApi\\SampleCoreApi\\SampleCoreApi\\SampleCoreApi", "SampleCoreApi.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("SampleCoreApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Varun\\1111_projects\\SampleCoreApi\\code\\DemoAspCoreApi\\SampleCoreApi", "SampleCoreApi.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SampleCoreApi.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

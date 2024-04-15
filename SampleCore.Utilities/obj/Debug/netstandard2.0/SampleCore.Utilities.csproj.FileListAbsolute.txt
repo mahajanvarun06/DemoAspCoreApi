@@ -17,3 +17,13 @@ C:\Users\mahaj\Downloads\SampleCoreApi\SampleCoreApi\SampleCoreApi\SampleCore.Ut
 C:\Users\mahaj\Downloads\SampleCoreApi\SampleCoreApi\SampleCoreApi\SampleCore.Utilities\obj\Debug\netstandard2.0\SampleCore.Utilities.csproj.CoreCompileInputs.cache
 C:\Users\mahaj\Downloads\SampleCoreApi\SampleCoreApi\SampleCoreApi\SampleCore.Utilities\obj\Debug\netstandard2.0\SampleCore.Utilities.dll
 C:\Users\mahaj\Downloads\SampleCoreApi\SampleCoreApi\SampleCoreApi\SampleCore.Utilities\obj\Debug\netstandard2.0\SampleCore.Utilities.pdb
+C:\Varun\1111_projects\SampleCoreApi\code\DemoAspCoreApi\SampleCore.Utilities\bin\Debug\netstandard2.0\SampleCore.Utilities.deps.json
+C:\Varun\1111_projects\SampleCoreApi\code\DemoAspCoreApi\SampleCore.Utilities\bin\Debug\netstandard2.0\SampleCore.Utilities.dll
+C:\Varun\1111_projects\SampleCoreApi\code\DemoAspCoreApi\SampleCore.Utilities\bin\Debug\netstandard2.0\SampleCore.Utilities.pdb
+C:\Varun\1111_projects\SampleCoreApi\code\DemoAspCoreApi\SampleCore.Utilities\obj\Debug\netstandard2.0\SampleCore.Utilities.csproj.AssemblyReference.cache
+C:\Varun\1111_projects\SampleCoreApi\code\DemoAspCoreApi\SampleCore.Utilities\obj\Debug\netstandard2.0\SampleCore.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Varun\1111_projects\SampleCoreApi\code\DemoAspCoreApi\SampleCore.Utilities\obj\Debug\netstandard2.0\SampleCore.Utilities.AssemblyInfoInputs.cache
+C:\Varun\1111_projects\SampleCoreApi\code\DemoAspCoreApi\SampleCore.Utilities\obj\Debug\netstandard2.0\SampleCore.Utilities.AssemblyInfo.cs
+C:\Varun\1111_projects\SampleCoreApi\code\DemoAspCoreApi\SampleCore.Utilities\obj\Debug\netstandard2.0\SampleCore.Utilities.csproj.CoreCompileInputs.cache
+C:\Varun\1111_projects\SampleCoreApi\code\DemoAspCoreApi\SampleCore.Utilities\obj\Debug\netstandard2.0\SampleCore.Utilities.dll
+C:\Varun\1111_projects\SampleCoreApi\code\DemoAspCoreApi\SampleCore.Utilities\obj\Debug\netstandard2.0\SampleCore.Utilities.pdb
